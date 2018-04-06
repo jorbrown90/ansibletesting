@@ -5,3 +5,5 @@ Outputs:
 hf-ip = 165.227.83.82
 idx-ip = 165.227.83.167
 uf-ip = 165.227.83.69
+
+test message
