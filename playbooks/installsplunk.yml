@@ -1,6 +1,6 @@
 ---
 #Install Splunk for full instances
-- hosts: SH, IDX, HF, UF
+- hosts: SH, IDX, HF
   connection: ssh
   gather_facts: no
   tasks:
